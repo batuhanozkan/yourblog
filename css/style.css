@@ -1,0 +1,145 @@
+.banner {color:#761c19;font-family: 'Bungee Inline', cursive; font-size:300%;-webkit-transition:  0.1s;text-align: center;transition: 0.1s;}
+.navbar-default {background-color:#761c19}
+.navbar-brand {color: #2aabd2}
+.deneme {color:#ffffff;font-family: 'Lobster', cursive; font-size:20px;}
+.navbar-nav>li{  color: #ffffff;}
+.nav>li:hover {background-color:#000000}
+.navbar-header:hover{background-color:#000000}
+.deneme:hover{font-size:30px;}
+.banner:hover{font-size:350%; color:#000000;text-decoration: none;}
+.fa {color:#761c19}
+.rs{
+  border-radius: 50%;
+  position: relative;  left: 50%; top:10px;
+}
+.ac{
+font-size:15px;}
+.yazi {
+position: relative;  left: 50%; position: relative;  left: 50%; top:10px;
+}
+
+
+
+.aa:link {
+    color: #222222;
+    text-decoration: none;
+    font-size:40px;
+}
+
+/* ziyaret edilmiş bağlantı */
+.aa:visited {
+    color: #222222;
+    text-decoration: none;
+    font-size:40px;
+}
+
+/* fare gezdirilen bağlantı */
+.aa:hover {
+   
+     color: #222222;
+    text-decoration: none;
+    font-size:40px;
+   
+}
+
+/* seçilmiş link */
+.aa:active {
+    color: #222222;
+    text-decoration: none;
+    font-size:40px;
+}
+.ab:link {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size:20px;
+}
+
+/* ziyaret edilmiş bağlantı */
+.ab:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size:20px;
+}
+
+/* fare gezdirilen bağlantı */
+.ab:hover {
+   color: #FFFFFF;
+    text-decoration: none;
+    font-size:20px;
+}
+
+/* seçilmiş link */
+.ab:active {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size:20px;
+}
+
+.orta {box-shadow: 10px 10px 10px 10px #888888; ;border-style: outset;margin:auto;width:90%}
+.baslik{font-family: 'Roboto', sans-serif; font-size:50px; color:#222222}
+.kullanici{font-family:'Courgette', cursive;font-size:20px;}
+.liste{position: relative;  left: 56%;width:  250px;border: 10px solid transparent;
+    bottom:20px;  }
+.sy>h4{position: relative;  text-align: center;font-size:20px;font-family: 'Kaushan Script', cursive;color:#ffffff}
+.sr>ul {list-style-type: none;
+    color: #ffffff;font-family: 'Philosopher', sans-serif;font-size:15px;position: relative;  right: 10px;}
+.sr>ul>li:hover{text-decoration:underline; color:#2aabd2;font-size:20px;}
+.batu {border-radius:50%;width: 200px;height:200px;position:relative;left:200px;}
+.sy{background-color: #761c19;border-radius: 15px 75px;width:  250px;position: relative;  right: 20%;}
+.sr{background-color: #761c19;border-radius: 50px 20px;width:  250px;position: relative;  right: 20%;}
+footer.nb-footer {
+
+border-top: 4px solid #b78c33; }
+footer.nb-footer .about {
+margin: 0 auto;
+margin-top: 40px;
+max-width: 1170px;
+text-align: center; }
+footer.nb-footer .about p {
+font-size: 13px;
+color: #999;
+margin-top: 30px; }
+footer.nb-footer .about .social-media {
+margin-top: 15px; 
+}
+footer.nb-footer .about .social-media ul li a {
+display: inline-block;
+width: 45px;
+height: 45px;
+line-height: 45px;
+border-radius: 50%;
+font-size: 30px;
+
+
+background: #761c19;
+color: #fff;
+border-color: #761c19;;}
+footer.nb-footer .about .social-media ul li a:hover {
+width: 65px;
+font-size: 55px;
+height: 65px;
+background: #761c19;;
+color: #fff;
+border-color: #761c19;; }
+
+.devam {position: relative; bottom:14px;left:13px}
+@media only screen and (max-width: 1000px) {
+    .orta
+    {
+        width: 480px;
+    }
+    .mobil>p{font-size:20px;}
+    .sy{width:  170%;positin: relative;  right: 70px;}
+    .sr{width:  170%;position: relative;  right: 70px;}
+    .orta{position: relative;  right: 10px;}
+    .nv{width:  480px;position: relative;}
+	.liste{position: relative;  left: 40%;}
+	
+
+}
+
+
+
+
+
+
